@@ -1,0 +1,5 @@
+<module rename-to="Webadminconsole">
+    <inherits name='com.google.gwt.user.User'/>
+    <inherits name="com.google.gwt.json.JSON"/>
+    <entry-point class='com.vadim.ok.webadminconsole.client.Main'/>
+</module>

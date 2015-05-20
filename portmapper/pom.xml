@@ -1,0 +1,17 @@
+<project>
+    <parent>
+        <groupId>com.vadim.ok</groupId>
+        <artifactId>aggregator</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+    
+    <artifactId>portmapper</artifactId>
+    <modelVersion>4.0.0</modelVersion>
+
+    <dependencies>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>logging</artifactId>
+        </dependency>
+    </dependencies>
+</project>
